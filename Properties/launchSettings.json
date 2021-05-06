@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OpencvsharpSegmentationFault": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+docker run -t -d test:0.1
